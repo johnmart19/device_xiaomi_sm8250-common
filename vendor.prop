@@ -250,6 +250,9 @@ debug.stagefright.omx_default_rank=0
 ro.miui.google.csp=true
 ro.miui.notch=1
 
+# Multi-gen LRU
+persist.device_config.mglru_native.lru_gen_config=all
+
 # NFC
 ro.camera.notify_nfc=1
 

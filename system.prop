@@ -139,9 +139,6 @@ persist.vendor.data.mode=concurrent
 ro.mi.development=false
 ro.opa.eligible_device=true
 
-# Multi-gen LRU
-persist.device_config.mglru_native.lru_gen_config=all
-
 # Zygote
 persist.device_config.runtime_native.usap_pool_enabled=true
 
